@@ -22,18 +22,20 @@
     "url": "https://api.context-ed.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 6042,
     "timeDay": 6042,
     "timeWeek": 6042,
     "timeMonth": 6042,
     "timeYear": 6042,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-27": 0
+    }
   },
   {
     "name": "ContextEd API Health",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api-health",
     "status": "down",
-    "uptime": "51.05%",
-    "uptimeDay": "51.05%",
-    "uptimeWeek": "51.05%",
-    "uptimeMonth": "51.05%",
-    "uptimeYear": "51.05%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 230,
     "timeDay": 230,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-05-27": 0
+      "2026-05-27": 194
     }
   }
 ]
