@@ -22,12 +22,12 @@
     "url": "https://api.context-ed.app",
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api",
-    "status": "up",
-    "uptime": "59.70%",
-    "uptimeDay": "59.70%",
-    "uptimeWeek": "59.70%",
-    "uptimeMonth": "59.70%",
-    "uptimeYear": "59.70%",
+    "status": "down",
+    "uptime": "75.08%",
+    "uptimeDay": "75.08%",
+    "uptimeWeek": "75.08%",
+    "uptimeMonth": "75.08%",
+    "uptimeYear": "75.08%",
     "time": 6225,
     "timeDay": 6225,
     "timeWeek": 6225,
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api-health",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 230,
     "timeDay": 230,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-05-27": 324
+      "2026-05-27": 527
     }
   }
 ]
