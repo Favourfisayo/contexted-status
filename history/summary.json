@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 334,
-    "timeWeek": 334,
-    "timeMonth": 334,
-    "timeYear": 334,
+    "time": 273,
+    "timeDay": 152,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api",
     "status": "down",
-    "uptime": "47.04%",
-    "uptimeDay": "47.04%",
-    "uptimeWeek": "47.04%",
-    "uptimeMonth": "47.04%",
-    "uptimeYear": "47.04%",
+    "uptime": "17.33%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "17.33%",
+    "uptimeMonth": "17.33%",
+    "uptimeYear": "17.33%",
     "time": 6225,
-    "timeDay": 6225,
+    "timeDay": 0,
     "timeWeek": 6225,
     "timeMonth": 6225,
     "timeYear": 6225,
     "dailyMinutesDown": {
       "2026-05-27": 191,
-      "2026-05-28": 254
+      "2026-05-29": 256,
+      "2026-05-28": 1440
     }
   },
   {
@@ -44,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api-health",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 230,
-    "timeDay": 230,
+    "timeDay": 0,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-05-28": 254,
+      "2026-05-29": 256,
+      "2026-05-28": 1440,
       "2026-05-27": 586
     }
   }
