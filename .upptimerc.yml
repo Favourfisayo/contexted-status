@@ -6,10 +6,10 @@ sites:
     url: https://context-ed.app
     expectedStatusCodes: [200]
   - name: ContextEd API
-    url: https://api.context-ed.app
+    url: https://contexted-api.onrender.com
     expectedStatusCodes: [200]
   - name: ContextEd API Health
-    url: https://api.context-ed.app/health
+    url: https://contexted-api.onrender.com/health
     expectedStatusCodes: [200]
 
 status-website:
