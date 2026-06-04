@@ -1,7 +1,7 @@
-url: https://contexted-api.onrender.com/health
+url: https://api.context-ed.app/health
 status: up
 code: 200
-responseTime: 183
-lastUpdated: 2026-06-04T01:45:51.946Z
+responseTime: 138
+lastUpdated: 2026-06-04T19:15:07.627Z
 startTime: 2026-05-27T14:13:18.015Z
 generator: Upptime <https://github.com/upptime/upptime>
