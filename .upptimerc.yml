@@ -11,6 +11,9 @@ sites:
   - name: ContextEd API Health
     url: https://api.context-ed.app/health
     expectedStatusCodes: [200]
+  - name: ContextEd Embedding Worker 
+    url: https://contexted-worker.onrender.com/health
+    expectedStatusCodes: [200]
 
 status-website:
   cname: status.context-ed.app
