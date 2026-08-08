@@ -4,19 +4,19 @@
     "url": "https://context-ed.app",
     "icon": "https://icons.duckduckgo.com/ip3/context-ed.app.ico",
     "slug": "context-ed-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 570,
-    "timeWeek": 562,
-    "timeMonth": 506,
-    "timeYear": 419,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 418,
+    "timeDay": 477,
+    "timeWeek": 540,
+    "timeMonth": 502,
+    "timeYear": 418,
     "dailyMinutesDown": {
-      "2026-08-08": 2
+      "2026-08-08": 20
     }
   },
   {
