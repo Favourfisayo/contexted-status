@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.48%",
+    "uptimeYear": "97.50%",
     "time": 18941,
     "timeDay": 22296,
     "timeWeek": 17404,
@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.context-ed.app.ico",
     "slug": "context-ed-api-health",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.14%",
+    "uptimeYear": "97.16%",
     "time": 181,
     "timeDay": 1469,
     "timeWeek": 868,
@@ -68,9 +68,9 @@
     "url": "https://contexted-worker.onrender.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/contexted-worker.onrender.com.ico",
     "slug": "context-ed-embedding-worker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -79,6 +79,8 @@
     "timeWeek": 10692,
     "timeMonth": 9919,
     "timeYear": 9688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-17": 0
+    }
   }
 ]
