@@ -68,19 +68,19 @@
     "url": "https://contexted-worker.onrender.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/contexted-worker.onrender.com.ico",
     "slug": "context-ed-embedding-worker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 9688,
-    "timeDay": 21050,
-    "timeWeek": 10692,
-    "timeMonth": 9919,
-    "timeYear": 9688,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 9493,
+    "timeDay": 10588,
+    "timeWeek": 9371,
+    "timeMonth": 9613,
+    "timeYear": 9493,
     "dailyMinutesDown": {
-      "2026-08-17": 0
+      "2026-08-17": 29
     }
   }
 ]
