@@ -1,7 +1,7 @@
 url: https://api.context-ed.app
-status: up
-code: 200
-responseTime: 750
-lastUpdated: 2026-08-19T23:26:23.741Z
+status: down
+code: 503
+responseTime: 377
+lastUpdated: 2026-08-20T15:55:44.940Z
 startTime: 2026-05-27T14:13:11.701Z
 generator: Upptime <https://github.com/upptime/upptime>
