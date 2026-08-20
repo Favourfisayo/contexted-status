@@ -1,7 +1,7 @@
 url: https://contexted-worker.onrender.com/health
-status: down
-code: 503
-responseTime: 239
-lastUpdated: 2026-08-20T15:56:15.758Z
+status: up
+code: 200
+responseTime: 23122
+lastUpdated: 2026-08-20T17:43:08.357Z
 startTime: 2026-06-26T13:21:10.043Z
 generator: Upptime <https://github.com/upptime/upptime>
